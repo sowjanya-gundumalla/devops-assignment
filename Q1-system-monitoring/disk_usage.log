@@ -1,0 +1,17 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  4.0G  952G   1% /
+rootfs          2.9G  2.7M  2.9G   1% /init
+none            2.9G     0  2.9G   0% /dev/shm
+none            2.9G  548K  2.9G   1% /run
+none            2.9G     0  2.9G   0% /run/lock
+none            2.9G  308K  2.9G   1% /run/user
+tmpfs           581M   20K  581M   1% /run/user/1000
+drivers         462G  412G   51G  90% /usr/lib/wsl/drivers
+none            2.9G     0  2.9G   0% /usr/lib/wsl/lib
+none            2.9G  4.0K  2.9G   1% /mnt/wsl
+none            2.9G   76K  2.9G   1% /mnt/wslg/versions.txt
+none            2.9G   76K  2.9G   1% /mnt/wslg/doc
+none            2.9G     0  2.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+C:\             462G  412G   51G  90% /mnt/c
+tmpfs           581M   20K  581M   1% /run/user/0
+Sat Jan  3 12:13:22 UTC 2026
